@@ -1,0 +1,24 @@
+{
+    "categorias":[
+        {
+            "nombre":"Entrada",
+            "descripcion":"Una comida ligera para abrir el apetito",
+            "img":"entrada.png"
+        },
+        {
+            "nombre":"Fondo",
+            "descripcion":"Ahora vamos por la comida principal :)",
+            "img":"fondo.png"
+        },
+        {
+            "nombre":"Ensalada",
+            "descripcion":"¿Un plato frio?",
+            "img":"ensalada.png"
+        },
+        {
+            "nombre":"Postre",
+            "descripcion":"Vamos a cerrar la comida!",
+            "img":"postre.png"
+        }
+    ]
+}
