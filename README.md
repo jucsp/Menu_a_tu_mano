@@ -2,6 +2,6 @@
 
 ## Juan Carlos Saavedra
 
-Reinvención del proyecto "MenuAMano"
-Prototipo de carta virtual en formato de aplicacion.
-Desarrollado en Flutter para sistema Android.
+<ul>Reinvención del proyecto "MenuAMano"</ul>
+<ul>Prototipo de carta virtual en formato de aplicacion.</ul>
+<ul>Desarrollado en Flutter para sistema Android.</ul>
